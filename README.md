@@ -1,4 +1,3 @@
-# NLDC_2025
 # 🧬 Nonlinear Dynamics and Control of a Tumor Growth Model
 
 ## 📌 Overview
